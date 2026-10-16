@@ -1,0 +1,7 @@
+{
+  "perl": "6.*",
+  "name": "widgets",
+  "version": "0.1.0",
+  "description": "Sample Raku package",
+  "depends": []
+}

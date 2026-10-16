@@ -1,0 +1,4 @@
+Package: widgets
+Version: 0.1.0
+Title: Widgets
+Description: Sample R package for the redirect harness.

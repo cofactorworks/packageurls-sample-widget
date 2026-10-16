@@ -1,0 +1,5 @@
+[tool.poetry]
+name = "not-the-package"
+
+[project]
+name = "widgets"

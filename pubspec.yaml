@@ -1,0 +1,5 @@
+name: widgets
+description: A sample package.
+version: 0.1.0
+environment:
+  sdk: ^3.5.0

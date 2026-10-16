@@ -1,0 +1,11 @@
+{
+  "name": "widgets",
+  "url": "https://example.com/acme/widgets",
+  "license": "MIT",
+  "tags": [],
+  "description": "Sample Haxe library",
+  "version": "0.1.0",
+  "releasenote": "sample",
+  "contributors": ["widgets"],
+  "classPath": "src"
+}
